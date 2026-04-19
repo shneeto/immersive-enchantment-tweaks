@@ -1,0 +1,7 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:angler_pottery_sherd", "amount": 1 },
+    "2": { "item": "minecraft:glow_ink_sac", "amount": 16 },
+    "3": { "item": "tide:anglerfish", "amount": 1 }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:rabbit_foot", "amount": 1 },
+    "2": { "item": "minecraft:diamond_block", "amount": 1 },
+    "3": { "item": "minecraft:netherite_scrap", "amount": 4 }
+  }
+}

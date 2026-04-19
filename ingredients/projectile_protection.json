@@ -1,0 +1,8 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:arrow", "amount": 32 },
+    "2": { "item": "minecraft:phantom_membrane", "amount": 8 },
+    "3": { "item": "minecraft:shield", "amount": 2 },
+    "4": { "item": "minecraft:totem_of_undying", "amount": 1 }
+  }
+}

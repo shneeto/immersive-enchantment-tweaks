@@ -1,0 +1,6 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:slimeball", "amount": 16 },
+    "2": { "item": "minecraft:piston", "amount": 8 }
+  }
+}

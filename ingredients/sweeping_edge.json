@@ -1,0 +1,7 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:sculk", "amount": 32 },
+    "2": { "item": "minecraft:sculk_catalyst", "amount": 2 },
+    "3": { "item": "minecraft:echo_shard", "amount": 4 }
+  }
+}

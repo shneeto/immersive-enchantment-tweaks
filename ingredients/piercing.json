@@ -1,0 +1,8 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:arrow", "amount": 32 },
+    "2": { "item": "minecraft:iron_ingot", "amount": 16 },
+    "3": { "item": "minecraft:crossbow", "amount": 2 },
+    "4": { "item": "minecraft:netherite_ingot", "amount": 1 }
+  }
+}

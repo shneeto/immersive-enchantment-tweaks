@@ -1,0 +1,9 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:spider_eye", "amount": 8 },
+    "2": { "item": "minecraft:cobweb", "amount": 16 },
+    "3": { "item": "minecraft:fermented_spider_eye", "amount": 8 },
+    "4": { "item": "minecraft:slime_block", "amount": 4 },
+    "5": { "item": "minecraft:spider_banner_pattern", "amount": 1 }
+  }
+}

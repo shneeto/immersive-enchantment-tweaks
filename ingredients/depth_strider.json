@@ -1,0 +1,7 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:kelp", "amount": 32 },
+    "2": { "item": "minecraft:nautilus_shell", "amount": 4 },
+    "3": { "item": "minecraft:heart_of_the_sea", "amount": 1 }
+  }
+}
