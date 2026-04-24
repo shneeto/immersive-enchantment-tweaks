@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "Various enchantment cost adjustments for the IE mod in Vanilla Skies.",
+    "pack_format": 48,
+    "min_format": 48,
+    "max_format": 48
+  }
+}

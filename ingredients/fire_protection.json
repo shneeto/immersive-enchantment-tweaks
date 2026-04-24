@@ -1,8 +1,0 @@
-{
-  "levels": {
-    "1": { "item": "minecraft:blaze_powder", "amount": 16 },
-    "2": { "item": "minecraft:magma_cream", "amount": 8 },
-    "3": { "item": "minecraft:ancient_debris", "amount": 4 },
-    "4": { "item": "minecraft:nether_star", "amount": 1 }
-  }
-}

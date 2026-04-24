@@ -1,0 +1,7 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:lead", "amount": 8 },
+    "2": { "item": "minecraft:compass", "amount": 1 },
+    "3": { "item": "minecraft:friend_pottery_sherd", "amount": 1 }
+  }
+}

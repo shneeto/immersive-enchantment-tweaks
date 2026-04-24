@@ -1,0 +1,7 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:redstone_block", "amount": 8 },
+    "2": { "item": "minecraft:copper_bulb", "amount": 1 },
+    "3": { "item": "minecraft:lightning_rod", "amount": 1 }
+  }
+}

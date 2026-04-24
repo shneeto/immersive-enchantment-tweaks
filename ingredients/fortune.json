@@ -1,7 +1,0 @@
-{
-  "levels": {
-    "1": { "item": "minecraft:emerald", "amount": 16 },
-    "2": { "item": "minecraft:plenty_pottery_sherd", "amount": 4 },
-    "3": { "item": "minecraft:ancient_debris", "amount": 4 }
-  }
-}

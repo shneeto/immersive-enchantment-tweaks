@@ -1,6 +1,6 @@
 {
   "levels": {
-    "1": { "item": "minecraft:flint_and_steel", "amount": 2 },
+    "1": { "item": "minecraft:burn_pottery_sherd", "amount": 1 },
     "2": { "item": "minecraft:blaze_rod", "amount": 8 }
   }
 }

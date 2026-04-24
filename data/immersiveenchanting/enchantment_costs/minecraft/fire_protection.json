@@ -1,0 +1,8 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:blaze_powder", "amount": 16 },
+    "2": { "item": "minecraft:firefly_bush", "amount": 1 },
+    "3": { "item": "minecraft:crimson_fungus", "amount": 8 },
+    "4": { "item": "minecraft:dried_kelp_block", "amount": 4 }
+  }
+}

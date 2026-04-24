@@ -1,6 +1,6 @@
 {
   "levels": {
-    "1": { "item": "minecraft:pufferfish", "amount": 8 },
+    "1": { "item": "minecraft:tropical_fish_bucket", "amount": 1 },
     "2": { "item": "minecraft:turtle_scute", "amount": 4 },
     "3": { "item": "minecraft:conduit", "amount": 1 }
   }

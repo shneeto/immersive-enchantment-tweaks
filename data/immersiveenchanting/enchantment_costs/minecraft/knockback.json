@@ -1,0 +1,6 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:piston", "amount": 1 },
+    "2": { "item": "minecraft:guster_pottery_sherd", "amount": 1 }
+  }
+}

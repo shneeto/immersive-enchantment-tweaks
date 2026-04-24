@@ -2,7 +2,7 @@
   "levels": {
     "1": { "item": "minecraft:feather", "amount": 16 },
     "2": { "item": "minecraft:phantom_membrane", "amount": 8 },
-    "3": { "item": "minecraft:potion", "amount": 4 },
-    "4": { "item": "minecraft:elytra", "amount": 1 }
+    "3": { "item": "minecraft:hay_block", "amount": 16 },
+    "4": { "item": "minecraft:guster_banner_pattern", "amount": 1 }
   }
 }

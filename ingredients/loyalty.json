@@ -1,7 +1,0 @@
-{
-  "levels": {
-    "1": { "item": "minecraft:lead", "amount": 8 },
-    "2": { "item": "minecraft:compass", "amount": 4 },
-    "3": { "item": "minecraft:nether_star", "amount": 1 }
-  }
-}

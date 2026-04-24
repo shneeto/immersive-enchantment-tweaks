@@ -1,0 +1,7 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:gold_block", "amount": 4 },
+    "2": { "item": "tide:midas_fish", "amount": 1 },
+    "3": { "item": "minecraft:prize_pottery_sherd", "amount": 1 }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:rabbit_foot", "amount": 1 },
+    "2": { "item": "minecraft:plenty_pottery_sherd", "amount": 4 },
+    "3": { "item": "minecraft:globe_banner_pattern", "amount": 1 }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:goat_horn", "amount": 1 },
+    "2": { "item": "minecraft:golden_carrot", "amount": 4 },
+    "3": { "item": "minecraft:music_disc_pigstep", "amount": 1 }
+  }
+}

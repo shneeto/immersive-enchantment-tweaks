@@ -1,0 +1,9 @@
+{
+  "levels": {
+    "1": { "item": "minecraft:anvil", "amount": 1 },
+    "2": { "item": "minecraft:black_concrete", "amount": 16 },
+    "3": { "item": "minecraft:shaper_armor_trim_smithing_template", "amount": 1 },
+    "4": { "item": "minecraft:oxidized_copper", "amount": 4 },
+    "5": { "item": "minecraft:netherite_scrap", "amount": 1 }
+  }
+}

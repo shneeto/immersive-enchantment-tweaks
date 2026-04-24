@@ -4,6 +4,6 @@
     "2": { "item": "minecraft:iron_block", "amount": 4 },
     "3": { "item": "minecraft:diamond_block", "amount": 2 },
     "4": { "item": "minecraft:beacon", "amount": 1 },
-    "5": { "item": "minecraft:netherite_ingot", "amount": 2 }
+    "5": { "item": "minecraft:netherite_scrap", "amount": 1 }
   }
 }

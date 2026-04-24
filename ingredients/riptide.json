@@ -1,7 +1,0 @@
-{
-  "levels": {
-    "1": { "item": "minecraft:water_bucket", "amount": 2 },
-    "2": { "item": "minecraft:trident", "amount": 1 },
-    "3": { "item": "minecraft:lightning_rod", "amount": 2 }
-  }
-}

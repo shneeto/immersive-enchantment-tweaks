@@ -1,7 +1,0 @@
-{
-  "levels": {
-    "1": { "item": "tide:midas_fish", "amount": 1 },
-    "2": { "item": "minecraft:gold_block", "amount": 4 },
-    "3": { "item": "minecraft:totem_of_undying", "amount": 1 }
-  }
-}
