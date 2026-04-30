@@ -1,0 +1,7 @@
+{
+  "levels": {
+    "1": { "item": "deep_aether:cooked_aerglow_fish", "amount": 1 },
+    "2": { "item": "deep_aether:stratus_hoe", "amount": 1 },
+    "3": { "item": "deep_aether:music_disc_faent", "amount": 1 }
+  }
+}
