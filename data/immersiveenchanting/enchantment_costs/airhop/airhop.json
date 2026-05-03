@@ -1,0 +1,7 @@
+{
+  "levels": {
+    "1": { "item": "tide:shooting_starfish", "amount": 1 },
+    "2": { "item": "aether:cold_aercloud", "amount": 16 },
+    "3": { "item": "deep_aether:music_disc_himininn", "amount": 1 }
+  }
+}
